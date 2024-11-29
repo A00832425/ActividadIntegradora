@@ -1,6 +1,12 @@
 #include <iostream>
-
-#include "nlohmann/json.hpp"
+#include <fstream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <tuple>
+#include <stdlib.h>
+#include <string.h>
+#include <cstring>
 
 #include "func.h"
 
