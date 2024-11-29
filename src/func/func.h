@@ -9,6 +9,9 @@
 #include <string.h>
 #include <cstring>
 
+using namespace std;
+
+
 unsigned int factorial(unsigned int number);
 
 vector<int> computeLPS(const string& pattern)
